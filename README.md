@@ -82,7 +82,7 @@
 
   - 线程状态转换与通信机制
   - 线程同步与互斥
-  - 线程池知识点
+  - [线程池知识点](https://mp.weixin.qq.com/s?__biz=MzI5NTk0MDkwNA==&mid=2247483672&idx=1&sn=0531b1f3a649b6f1f4546704a09a9e10&chksm=ec4aa75fdb3d2e492c543ba8d28e54e028380cd5aba8173a0fa66049a4170f8985e3e5edc840&scene=126&sessionid=1594713358&key=e73a462697259ba2836e3ff9026dba70234a6c8d6a26bb32785d766055f5dc55e13ccc67721ec925f022ed5d848927ed7d188497a4ecbba2ea43adf526e01def5b8e6e06bab8e41ca515588c1b3308b5&ascene=1&uin=MzU1MjE3NTAy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AaKB3u2MxGjMs8%2BNFLPi8zE%3D&pass_ticket=dnkT6AbD1kDguAMV0UucyGJGFdiRyCG0WhaJ2GOCzljhOairQ%2B9ogRpBlsQ%2BENi%2F)
   - 常见的JUC工具类
   - [【面试】如果把线程当作一个人来对待，所有问题都瞬间明白了](https://mp.weixin.qq.com/s/PrUa0tFyu3UZllP2FRDyVA)
   - [Java 并发进阶常见面试题总结](https://mp.weixin.qq.com/s/cdHfTTvMpH60SwG2bjTMBw)
